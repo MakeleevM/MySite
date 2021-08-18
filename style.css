@@ -10,7 +10,18 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
 }
+.button1
+{
 
+ padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: capitalize;
+  border-radius: 90px;
+  background-color: #800080;
+  color: #aaaaaa;
+}
 .container {
   max-width: 928px;
   margin: 0 auto;
